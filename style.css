@@ -107,3 +107,10 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
+
+.card__input {
+  display: block;
+  margin: 10px auto;
+  width: 250px;
+  padding: 5px;
+}
